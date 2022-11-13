@@ -30,17 +30,16 @@ I enjoy building new things and maybe I am creating something new at this very m
 <br/>  
 
 
-## Rapidfire  
-- 🔭 My primary expertise is in web/mobile application development.  
+🔭 My primary expertise is in web/mobile application development.  
   
 
-- 🌱 I am a fast learner and I am always searching to learn something new and interesting.  
+🌱 I am a fast learner and I am always searching to learn something new and interesting.  
   
 
-- ❓ How to reach me: imran2w@gmail.com.  
+❓ How to reach me: imran2w@gmail.com.  
   
 
-- ⚡ Fun fact: I have no academic qualification in software development.  
+⚡ Fun fact: I have no academic qualification in software development.  
   
 
 <br/>  
