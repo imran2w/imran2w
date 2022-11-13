@@ -99,4 +99,4 @@ I enjoy building new things and maybe I am creating something new at this very m
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Personal Website: <a href="https://imran.link/" target="_blank">imran.link</a></div>
