@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://imran.link/wp-content/uploads/2022/07/198247101_4154616517930631_8787934313978644937_n-825x315.jpg" align="center" height="" width="100%" />
+</div>  
+
 ## Hey 👋, I'm ALI IMRAN!  
   
 
